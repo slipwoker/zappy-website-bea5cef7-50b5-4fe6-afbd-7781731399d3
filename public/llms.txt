@@ -1,0 +1,56 @@
+# HomeNest — Generative Engine Optimization Map
+
+> A מוצרי בית וכלל business.
+
+---
+
+## Pages
+
+### דף הבית
+https://homenest-bea5cef7.zappy5.app
+HomeNest מציעה מוצרים איכותיים לבית, יופי וטרנדים דרך חנות אונליין נוחה. גלה את המגוון שלנו עכשיו!
+
+### מוצרים
+https://homenest-bea5cef7.zappy5.app/products
+גלה את המגוון המלא של מוצרים לבית באינטרנט ב-HomeNest. מעיצוב הבית ועד מוצרי יופי - כל מה שאתה צריך במקום אחד!
+
+### אודות
+https://homenest-bea5cef7.zappy5.app/about
+למד עוד על HomeNest, החנות האונליין המובילה למוצרי בית בישראל. הסיפור שלנו, הערכים שלנו והמחויבות שלנו אליכם.
+
+### צור קשר
+https://homenest-bea5cef7.zappy5.app/contact
+צור קשר עם HomeNest עוד היום! אנחנו כאן כדי לענות על כל שאלה ולעזור לך למצוא את המוצרים המושלמים לבית שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://homenest-bea5cef7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://homenest-bea5cef7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://homenest-bea5cef7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HomeNest
+HomeNest is a business in the מוצרי בית וכלל industry.
+
+## Target Audience
+
+## Industry
+מוצרי בית וכלל
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://homenest-bea5cef7.zappy5.app/sitemap.xml
+- **Robots.txt**: https://homenest-bea5cef7.zappy5.app/robots.txt
